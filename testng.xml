@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Day5.alertsTesting"/>
+      <class name="day10.orderOfTests"/>
+      <class name="Day5.Feb10TaskDress"/>
+      <class name="Day2.AmazonProject"/>
+      <class name="Day3.AutomateTestCase3Sliders_1"/>
+      <class name="Day3.checkBoxIntro"/>
+      <class name="Day6.assertionsTest"/>
+      <class name="ReviewSessionsFeb12.XpathPractice"/>
+      <class name="Day2.openAndVerifyTitle"/>
+      <class name="Day5.AmazonLight"/>
+      <class name="Day7.windowSwitch"/>
+      <class name="Day4.DynamicSelect"/>
+      <class name="Day2.webElementTesting"/>
+      <class name="Day3.MyAccountLogin_8"/>
+      <class name="ReviewFeb19.Alert"/>
+      <class name="ReviewSessionsFeb12.RadioButtonCheckBox"/>
+      <class name="Day4.implicitWaitExample"/>
+      <class name="Day2.openBrowserTest"/>
+      <class name="Day5.dressHW"/>
+      <class name="utilities.Driver"/>
+      <class name="day10.TestingTestNGAnnotation"/>
+      <class name="Day3.Automate4_imageDescription"/>
+      <class name="Day2.amazonAutomationPracitce"/>
+      <class name="Day3.AutomateTestCase3Image"/>
+      <class name="ReviewSessionsFeb12.alertsReview"/>
+      <class name="Day6.actionClassDragandDrop"/>
+      <class name="ReviewFeb19.RegistrationDemo_guru99"/>
+      <class name="Day6.actionClassTest"/>
+      <class name="Day7.WindowHandlesTest"/>
+      <class name="Day7.IframeTest"/>
+      <class name="Day4.dropDownTest"/>
+      <class name="day10.dependsOnTest"/>
+      <class name="Day3.AutomateTestCase3Arrivals_2"/>
+      <class name="Day2.jUnitTestingExample"/>
+      <class name="utilities.Driver1"/>
+      <class name="ReviewFeb19.guru99Properties"/>
+      <class name="Day9.TestingWebDriver"/>
+      <class name="day10.groupTests"/>
+      <class name="ReviewSessionsFeb12.ReviewWait"/>
+      <class name="Day8.PropertiesClass"/>
+      <class name="Day5.EstyProject"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

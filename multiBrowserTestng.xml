@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+  <test name="safariTest">
+  <parameter name="browser" value="safari"/>
+    <classes>
+      <class name="day11.multiBrowser"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="chromeTest">
+  <parameter name="browser" value="chrome"/>
+   
+    <classes>
+      <class name="day11.multiBrowser"/>
+      </classes>
+       </test>
+</suite> <!-- Suite -->
